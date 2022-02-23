@@ -1,4 +1,4 @@
-# Hello there!! 👋 I'm Prathamesh
+# Hello there!!<img src="https://raw.githubusercontent.com/PrathameshAdate05/PrathameshAdate05/master/wave.gif" width="30px"> I'm Prathamesh 
 
 ![](https://komarev.com/ghpvc/?username=PrathameshAdate05&color=orange)
 
