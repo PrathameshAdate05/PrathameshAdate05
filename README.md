@@ -18,7 +18,7 @@ I'm Computer Science Engineering Student
 
 
 ## Catch me at
-<a href=”https://www.linkedin.com/in/prathamesh-adate-600608207/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/prathamesh-adate-600608207/"><img align=”left” src=”https://raw.githubusercontent.com/PrathameshAdate05/PrathameshAdate05/main/linkedin.png" alt=”Prathamesh Adate | LinkedIn” width=”21px”/></a>
 
 
 <!--
