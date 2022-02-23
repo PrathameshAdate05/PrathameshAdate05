@@ -19,8 +19,6 @@ I'm Computer Science Engineering Student
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
-## Catch me at
-<a href=”https://www.linkedin.com/in/prathamesh-adate-600608207/"><img align=”left” src=”https://raw.githubusercontent.com/PrathameshAdate05/PrathameshAdate05/main/linkedin.png" alt=”Prathamesh Adate | LinkedIn” width=”21px”/></a>
 
 
 <!--
