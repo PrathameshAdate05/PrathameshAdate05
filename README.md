@@ -6,6 +6,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshAdate05&layout=compact&theme=tokyonight)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
 
 <!--
 **PrathameshAdate05/PrathameshAdate05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
