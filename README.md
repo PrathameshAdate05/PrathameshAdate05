@@ -2,10 +2,10 @@
 
 I'm Computer Science Engineering Student
 
--Learning Android Development
--Doing DSA using Java on LeetCode
--Love to code in Java
--Beginner at GoLang(Backend Development)
+- Learning Android Development
+- Doing DSA using Java on LeetCode
+- Love to code in Java
+- Beginner at GoLang(Backend Development)
 
 
 ![](https://komarev.com/ghpvc/?username=PrathameshAdate05&color=orange)
