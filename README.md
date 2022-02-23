@@ -17,6 +17,9 @@ I'm Computer Science Engineering Student
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
+## Catch me at
+<a href=”https://www.linkedin.com/in/prathamesh-adate-600608207/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
 
 <!--
 **PrathameshAdate05/PrathameshAdate05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
