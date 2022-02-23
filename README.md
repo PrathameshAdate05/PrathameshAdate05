@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=PrathameshAdate05&color=orange)
+
 ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshAdate05&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshAdate05&layout=compact&theme=tokyonight)
