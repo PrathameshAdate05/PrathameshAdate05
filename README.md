@@ -1,3 +1,5 @@
+[![Social banner for Prathamesh](https://github.com/PrathameshAdate05/PrathameshAdate05/raw/master/banner.jpg)]
+
 # Hello there!! <img src="https://raw.githubusercontent.com/PrathameshAdate05/PrathameshAdate05/master/wave.gif" width="30px"> I'm Prathamesh 
 
 I'm Computer Science Engineering Student
