@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=prathameshadate05&theme=<dark>" />
+![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshAdate05&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshAdate05&layout=compact&theme=tokyonight)
 
 
 <!--
