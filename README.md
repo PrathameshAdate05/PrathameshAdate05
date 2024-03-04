@@ -18,6 +18,8 @@
 
 ![prathameshadate05's Stats](https://github-readme-stats.vercel.app/api?username=prathameshadate05&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
+![prathameshadate05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshadate05&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 ![prathameshadate05's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathameshadate05&theme=vue-dark&hide_border=false)
 
-![prathameshadate05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshadate05&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
